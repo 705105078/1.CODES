@@ -1,10 +1,13 @@
 #include "code.h"
 
-void sap_xep_day_so(int*a, int n){
+void sap_xep_day_so(int* a, int n){
     //ma lenh sap xep day so
 }
 
+int tim_max(int* a,int n){
+    //ma lenh ham lim max
+}
 int main(){
-    cout<<"Phien ban dau tien";
+    cout<<"Phien ban 2";
     return 0;
 }
